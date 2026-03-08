@@ -144,8 +144,4 @@ clang main.c -o lab
 # 👤 Autor
 **Alexandru-Virgil**  
 Student la **UTCN – Automatică și Calculatoare**  
-
----
-
-# ⭐ Dacă ți-a fost util, nu uita să dai un ⭐ repository-ului!
 ```
